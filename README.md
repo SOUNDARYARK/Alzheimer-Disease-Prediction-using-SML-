@@ -11,7 +11,6 @@ main symptoms. No cure exists, but medication and management strategies may temp
 improve symptoms. It associates many risk factors in Alzheimer disease and a need of the 
 time to get accurate, reliable, and sensible approaches to make an early diagnosis to achieve 
 prompt management of the disease. Data mining is a commonly used technique for 
-
 processing enormous data in the healthcare domain. Researchers apply several data mining 
 and machine learning techniques to analyse huge complex medical data, helping healthcare 
 professionals to predict Alzheimer disease. The proposed method is to build a machine 
@@ -20,7 +19,8 @@ algorithms are compared and the best model is used for predicting the outcome.
 
 
 
-#Module description
+#MODULE DESCRIPTION
+
 I. DATA PREPROCESSING
 II. DATA ANALYSIS OF VISULAIZATION
 III. LOGISTIC REGRESSION
@@ -28,18 +28,6 @@ IV. RANDOM FOREST CLASSIFIER
 V.DECISION TREE CLASSIFIER
 VI.NAIVE BAYES
 
-
-#PROPOSED SYSTEM
-The proposed method is to build a machine learning model using classification 
-technique predict for Alzheimer Disease. The process involves data collection where past 
-data related to Alzheimer Disease are gathered. Data mining is a commonly used technique 
-for processing enormous data in the healthcare domain. The Alzheimer disease if found 
-before proper treatment can save lives. Machine learning is now applied and especially used 
-in healthcare where it reduces manual effort and a better model reduces error less that leads 
-to saving life. Data analysis is done on the dataset and appropriate identification of variables 
-that dependent variables and independent variables are found. Then proper machine learning 
-algorithms are applied on the dataset where the pattern of data is learnt. After applying 
-different algorithms a better predict outcome.
 
 
 #ADVANTAGES
